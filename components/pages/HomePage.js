@@ -198,7 +198,7 @@ export default function HomePage() {
       <section className="section-tight home-about" aria-labelledby="about-title">
         <div className="container split about-preview">
           <img
-            src="/assets/images/about/reception-original.jpg"
+            src="/assets/images/about/evershine-reception-new.png"
             alt={t('Evershine reception with the official Evershine logo on a dark sign above the reception desk')}
             loading="lazy"
             width={1670}

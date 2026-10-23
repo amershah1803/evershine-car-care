@@ -36,7 +36,7 @@ export default function AboutPage() {
         <div className="container split">
           <img
             className="about-reception"
-            src="/assets/images/about/reception-original.jpg"
+            src="/assets/images/about/evershine-reception-new.png"
             alt={t('Evershine reception with the official Evershine logo on a dark sign above the reception desk')}
             loading="lazy"
             width={780}
