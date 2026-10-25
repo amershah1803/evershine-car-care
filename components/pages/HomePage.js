@@ -38,7 +38,7 @@ export default function HomePage() {
         <div className="hero-content">
           <p className="eyebrow">{t('Premium detailing & protection in Al Khobar')}</p>
           <h1 id="hero-title">
-            <span className="hero-line">{t('More than a car')}</span>
+            <span className="hero-line">{t('The total car')}</span>
             <span className="hero-line accent">{t('care center')}</span>
           </h1>
           <p className="hero-lead">
